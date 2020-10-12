@@ -10,3 +10,4 @@ ChallengeDB is a python Desktop app which can be used to enter/store/edit inform
 
 4.Now run the 'db.py' file. The App is ready to go.
 
+![MainApp](/images/mainImg.png)
